@@ -19,7 +19,7 @@ As janelas de diálogo são fornecidas via biblioteca TKinter e notificações p
 Alguns trechos também usam a biblioteca do sistema operacional para apagar as planilhas antigas e não sobrecarregar pastas com lixo. 
 Como as importações de algumas bibliotecas podem exigir alguns segundos de carregamento, o Pynput redireciona para o Desktop quando o programa inicia.
 
-O programa utiliza a extensão .pyw para não requisitar console, não é recomendável utilizar o parâmetro --noconsole do pyinstaller com o programa em .py pois ele compromete o desempenho do código.
+O programa utiliza a extensão *.pyw* para não requisitar console, não é recomendável utilizar o parâmetro ```--noconsole``` do pyinstaller com o programa em *.py* pois ele compromete o desempenho do código.
 
 Também é recomendável usar um ambiente virtual para gerar as distribuições executáveis.
 
@@ -32,11 +32,11 @@ O uso do programa é bem simples e intuitivo, ele é composto por três janelas 
 3. Caminho de destino - Local onde será salvo a planilha final
 
 ## Testes iniciais
-~~Você pode usar as source-sheets de apoio que estão no repositório para fazer os testes iniciais.~~ > confidential file :( <br>
+~~Você pode usar as source-sheets de apoio que estão no repositório para fazer os testes iniciais.~~ ```confidential file :(``` <br>
 Um .gif dele funcionando será adicionado em breve.
 
 
-Antes da execução do programa, <strong>é necessário renomear a extensão</strong> do <strong>WHD_Tickets.tsv</strong> para <strong>.csv</strong>, esse procedimento será automatizado também na versão 2.2 do Tracker.
+Antes da execução do programa, <strong>é necessário renomear a extensão</strong> do <strong>WHD_Tickets.tsv</strong> para <strong>.csv</strong>, esse procedimento será automatizado também na versão 2.3 do Tracker.
 
 Vale ressaltar que a versão dos arquivos é importante, portanto para um Tracker feito da forma correta, é necessário o download do arquivo 1 e 2 no mesmo dia, por exemplo, um *Tracker Ninecon 16082022.xlsx* precisa de um *WHD_Tickets.tsv* extraído no dia 16/08/2022 para ser perfeitamente compatível.
 
