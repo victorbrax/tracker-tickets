@@ -1,11 +1,11 @@
-# TrackerG 2.2!
 
-Script estruturado em Python que automatiza os processos de criação das planilhas Tracker fornecidas pela Ninecon à Sencinet.
 
-Atenção, esse executável é de uso específico e não irá servir para terceiros.
+# 🛠️ TrackerG 2.2! 🚧
+
+Atenção, esse projeto está sendo adaptado para publicação!
 Desenvolvido em Python, utilizando as bibliotecas Pandas e Tkinter como motores principais.
 
-O objetivo final era gerar um executável e compartilhar entre os membros da organização com o fim de aumentar a produtividade e eliminar a perca de tempo na produção dessa planilha diária e mandatória.
+O objetivo final é gerar um executável e compartilhar entre os membros da organização com o fim de aumentar a produtividade e eliminar a perca de tempo na produção dessa planilha diária e mandatória.
 
 # Estrutura
 
