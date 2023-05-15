@@ -2,7 +2,7 @@
   <table>
   <tr>
     <td><img height="24rem" src="https://raw.githubusercontent.com/victorbrax/filebrax-hub/c65a8072294d7b044a5909e03bcb0e7a7dcf6e3c/docs/br.svg" alt="brazilflag"></td>
-    <td>Você fala Português? Por favor, <a href="https://github.com/victorbrax/filebrax-hub/blob/main/docs/LEIAME.md">clique aqui</a>.</td>
+    <td>Você fala Português? Por favor, <a href="https://github.com/victorbrax/tracker-tickets/blob/main/docs/LEIAME.md">clique aqui</a>.</td>
   </tr>
 </table>
 </div>
