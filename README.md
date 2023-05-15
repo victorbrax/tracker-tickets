@@ -25,7 +25,7 @@
 # Greetings! ⚜
 
 
-_**Tracker Tickets**_ is one of **my early spreadsheet automation projects**, which is why I have a lot of affection for it. [PandaGAMI]() was born from it.
+_**Tracker Tickets**_ is one of **my early spreadsheet automation projects**, which is why I have a lot of affection for it. The [panda-gami](https://github.com/victorbrax/panda-gami) was born from it.
 
 _**TT**_ is a script that compares two spreadsheets, highlights important rows, formats the header, and saves the file. It may seem like a simple task, but it's a real project that **saved me many hours** of using the VLOOKUP function in Excel during a period of my life in my previous job, where I had to assemble this spreadsheet **from downloaded files every day**.
 </br>
