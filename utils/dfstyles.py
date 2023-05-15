@@ -1,3 +1,5 @@
+import pandas as pd
+
 def row_style(row):
     """To highlight important lines"""
     if row['Priorização'] == 'High':
