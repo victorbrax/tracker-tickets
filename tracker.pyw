@@ -9,7 +9,7 @@ from utils.dfstyles import row_style
 # Sheetfiles Path
 file_path1 = 'sheetfiles\Planilha 1.xlsx'
 file_path2 = 'sheetfiles\Planilha 2.csv'
-save_path = 'sheetfiles/Tracker Tickets.xlsx'
+save_path = 'Tracker Tickets.xlsx'
 
 # Read and drop the junk
 df1 = pd.read_excel(file_path1)
