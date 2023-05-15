@@ -23,7 +23,7 @@
 
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/victorbrax/filebrax-hub/main/docs/logo-github-photo.png">
+<img width="100%" src="https://raw.githubusercontent.com/victorbrax/tracker-tickets/main/docs/logos/logo-github.png">
 </div>
 </div>
 <p align="center">By <strong>Víctor Gomes</strong></p>
