@@ -25,7 +25,7 @@
 # É um prazer ter você aqui! ⚜
 
 
-O _**Tracker Tickets**_ é um dos **meus primeiros projetos de automação de planilhas**, por isso tenho muito carinho por ele. O [PandaGAMI]() nasceu a partir dele.
+O _**Tracker Tickets**_ é um dos **meus primeiros projetos de automação de planilhas**, por isso tenho muito carinho por ele. O [panda-gami](https://github.com/victorbrax/panda-gami) nasceu a partir dele.
 
 O _TT_ é um script que compara duas planilhas, destaca as linhas importantes, formata o cabeçalho e salva o arquivo. Pode parecer uma tarefa simples, mas é um projeto real que **me poupou muitas horas** de uso da função VLOOKUP no Excel durante um período da minha vida em meu trabalho anterior, onde eu precisava montar essa planilha **a partir de arquivos baixados todos os dias**.
 </br>
