@@ -23,7 +23,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/victorbrax/tracker-tickets/main/docs/logos/logo-github.png">
 </div>
 </div>
-<p align="center">By <strong>Víctor Gomes</strong></p>
+<p align="center">Por <strong>Víctor Gomes</strong></p>
 
 # É um prazer ter você aqui! ⚜
 
