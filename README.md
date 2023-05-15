@@ -28,7 +28,7 @@
 # Greetings! ⚜
 
 
-_**Tracker Tickets**_ is one of **my early spreadsheet automation projects**, which is why I have a lot of affection for it. Its "sibling," PandaGAMI, was born from it.
+_**Tracker Tickets**_ is one of **my early spreadsheet automation projects**, which is why I have a lot of affection for it. [PandaGAMI]() was born from it.
 
 _**TT**_ is a script that compares two spreadsheets, highlights important rows, formats the header, and saves the file. It may seem like a simple task, but it's a real project that **saved me many hours** of using the VLOOKUP function in Excel during a period of my life in my previous job, where I had to assemble this spreadsheet **from downloaded files every day**.
 </br>
@@ -37,12 +37,7 @@ _**TT**_ is a script that compares two spreadsheets, highlights important rows, 
 ## Demo 🖼️
 
 <div align="center">
-<img height="220vh" src="https://github.com/victorbrax/filebrax-hub/blob/main/docs/gifs/navigation.gif?raw=true">
-<img height="220vh" src="https://github.com/victorbrax/filebrax-hub/blob/main/docs/gifs/validacao.gif?raw=true">
-</div>
-<div align="center">
-<img height="220vh" src="https://github.com/victorbrax/filebrax-hub/blob/main/docs/gifs/collapse.gif?raw=true">
-<img height="220vh" src="https://github.com/victorbrax/filebrax-hub/blob/main/docs/gifs/404.gif?raw=true">
+<img height="400vh" src="https://raw.githubusercontent.com/victorbrax/tracker-tickets/main/docs/images/example.png">
 </div>
 
 ## Run Project Locally 🏠
